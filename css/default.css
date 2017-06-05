@@ -132,3 +132,6 @@ font-size: 30px;
   margin: 20px;
   background-color: mediumspringgreen;
 }
+.rotate{
+  transform: rotate(30deg);
+}
