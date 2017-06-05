@@ -8,7 +8,13 @@ padding: 0;
 
 /* main */
 body{
-background-color: lightgrey;
+  background-image: url(../img/pacman_jump.png), url(../img/高円寺.jpg);
+  background-repeat: no-repeat, no-repeat;
+  background-color: lightgray;
+  margin: 5px;
+}
+body{
+background-color: lightgray;
 margin: 5px;
 }
 
